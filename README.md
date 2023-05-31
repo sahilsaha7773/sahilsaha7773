@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/sahilsaha7773/sahilsaha7773)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/sahilsaha7773/sahilsaha7773)](https://badges.pufler.dev) -->
 [![Years Badge](https://badges.pufler.dev/years/sahilsaha7773)](https://badges.pufler.dev)
 
 
